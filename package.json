@@ -1,0 +1,11 @@
+{
+  "name": "innotec-vehicle-equipment-mapping",
+  "version": "0.0.0",
+  "description": "module for translating equipment-texts to defined standard-attributes for vehicle selling platforms to tag vehicles for search-attributes etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jherwig",
+  "license": "ISC"
+}
