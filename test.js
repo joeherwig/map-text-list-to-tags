@@ -1,4 +1,4 @@
-let harmonizeTags = require('C:\\Users\\jherwig\\projects\\innotec-text-to-tag-mapping')
+let harmonizeTags = require('C:\\Users\\you\\projects\\innotec-text-to-tag-mapping')
 let vehicle = {
   "equipments": {
     "equipment": [
